@@ -1,3 +1,4 @@
 - [Уровни и слои абстракции в операционной системе Linux](./abstraction_layers.md)
 - [Каталоги Linux](./catalogs/__contents__.md)
+- [Утилиты](./utils/__contents__.md)
 - [Системные вызовы](./system_calls.md)
