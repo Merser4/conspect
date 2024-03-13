@@ -1,2 +1,3 @@
 - [crontab](./crontab.md)
 - [head](./head.md)
+- [tail](./tail.md)
